@@ -59,15 +59,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 
- GitHub Statistics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadliArdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadliArdi&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadliArdi&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
  Featured Projects
 
 ###  Hans Kongkow - QA Engineer
