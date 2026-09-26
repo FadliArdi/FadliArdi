@@ -8,7 +8,7 @@
 
 **Data Scientist** & **ML Engineer** passionate about transforming data into actionable insights and building AI solutions that make a difference. From computer vision to predictive analytics, I love turning complex problems into elegant solutions.
 
-- 🎯 Latest Project: **[SIBI](https://github.com/KAIKAI240307/SIBI-aplikasi-pengenalan-bahasa-isyarat-)** - Real-time Indonesian Sign Language Recognition app using Computer Vision (MLP, MediaPipe, TensorFlow) with 95% accuracy, bridging communication gap for the deaf community
+- 🎯 Latest Project: **[SIBI](https://github.com/FadliArdi/SIBI-aplikasi-pengenalan-bahasa-isyarat-)** - Real-time Indonesian Sign Language Recognition app using Computer Vision (MLP, MediaPipe, TensorFlow) with 95% accuracy, bridging communication gap for the deaf community
 
 - 🌱 Currently learning: 
   - ☁️ **Cloud Engineering** - AWS/GCP infrastructure and deployment
@@ -61,11 +61,11 @@
 
 📊 GitHub Statistics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAIKAI240307&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAIKAI240307&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadliArdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadliArdi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAIKAI240307&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FadliArdi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 🏆 Featured Projects
@@ -75,28 +75,13 @@ Quality assurance for cafe company profile website with comprehensive manual tes
 - **Tech**: React.js, Node.js, Postman
 - **Highlights**: 6-month QA cycle, Multi-layer testing (Functional, UI/UX, API, Payment Gateway, Performance), Zero critical bugs in production deployment
 
-### 🤟 [SIBI - Indonesian Sign Language Translator](https://github.com/KAIKAI240307/SIBI-aplikasi-pengenalan-bahasa-isyarat-)
+### 🤟 [SIBI - Indonesian Sign Language Translator](https://github.com/FadliArdi/SIBI-aplikasi-pengenalan-bahasa-isyarat-)
 Real-time Android application for recognizing SIBI (Sistem Isyarat Bahasa Indonesia) alphabet gestures with 95% accuracy
 - **Tech**: Python, TensorFlow, MediaPipe, Kotlin, Jetpack Compose, TensorFlow Lite
 - **Highlights**: Computer vision with MLP classifier, Real-time hand landmark detection, Interactive SIBI dictionary
 - **Impact**: Supporting education & communication accessibility for deaf community (aligned with SDGs 4 & 10)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KAIKAI240307&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=FadliArdi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 💙 Thanks for visiting my profile!
 </div>
-
-<!--
-**KAIKAI240307/KAIKAI240307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
